@@ -1,0 +1,14 @@
+e:\source\Calculadora\Calculadora - Console\bin\Debug\net8.0\Calculadora - Console.exe
+e:\source\Calculadora\Calculadora - Console\bin\Debug\net8.0\Calculadora - Console.deps.json
+e:\source\Calculadora\Calculadora - Console\bin\Debug\net8.0\Calculadora - Console.runtimeconfig.json
+e:\source\Calculadora\Calculadora - Console\bin\Debug\net8.0\Calculadora - Console.dll
+e:\source\Calculadora\Calculadora - Console\bin\Debug\net8.0\Calculadora - Console.pdb
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.GeneratedMSBuildEditorConfig.editorconfig
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.AssemblyInfoInputs.cache
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.AssemblyInfo.cs
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.csproj.CoreCompileInputs.cache
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.dll
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\refint\Calculadora - Console.dll
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.pdb
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\Calculadora - Console.genruntimeconfig.cache
+e:\source\Calculadora\Calculadora - Console\obj\Debug\net8.0\ref\Calculadora - Console.dll
