@@ -1,4 +1,5 @@
 Nova versão de um velho exercício, uma calculadora em console:
+
 Estrutura mais organizada:
 
 Uso de enum para operações
